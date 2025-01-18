@@ -107,7 +107,7 @@ if __name__ == "__main__":
             markdown_file = file
             recipient = "braimahgifted@gmail.com"
             sender = "braimahgifted@gmail.com"
-            password = "cgjutsrgjrkuxeyq"
+            password = "app-specific-password"
             subject_line = file_name
             attachments = [
                 file,
