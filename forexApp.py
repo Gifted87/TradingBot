@@ -15,7 +15,7 @@ price_channels_file = r"C:\Users\USER\Downloads\gen-ai\price_channels.md"
 output_dir = r"C:\Users\USER\Downloads\gen-ai\output_market_analysis"
 recipient = "braimahgifted@gmail.com"
 sender = "braimahgifted@gmail.com"
-password = "cgjutsrgjrkuxeyq"
+password = "app-specific-password"
 subject_line = "Daily Forex Analysis"
 attachments = [results_file]
 
